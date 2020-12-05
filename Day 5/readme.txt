@@ -1,0 +1,1 @@
+For part b, just looked at list and picked the odd one out
