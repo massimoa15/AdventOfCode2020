@@ -1,0 +1,1 @@
+Not a great solution in my opinion. Took a long time and was not very elegan, also very long code. Java seems to be likely causing me more trouble than it's worth. Glad I did this recursively however
