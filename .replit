@@ -1,3 +1,0 @@
-language = "bash"
-run = "cd 'Day 7'"
-run = "java Part1.java"
